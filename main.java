@@ -1,4 +1,3 @@
- Main():
 public class Main {
     public static void main(String[] args) {
         Cola_circular colaMeses = new Cola_circular(12);
