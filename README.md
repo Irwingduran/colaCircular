@@ -4,3 +4,5 @@
 2) Crear un programa el cual apile nombres de meses(12)
 3) En el método main ilustrar todas las operaciones de los métodos de
 la clase.
+
+Archivo ColaCircular.java y Main.java están corregidos y actualizados.
